@@ -81,12 +81,12 @@ footer {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    background-color: #333;
+    background-color: #b1c4a3;
     color: white;
     text-decoration: none;
 }
 .botão-de-passar:hover {
-    background-color: #555;
+    background-color: #d2dbcb;
 }
 h3{
     text-align: left;
